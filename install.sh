@@ -9,7 +9,7 @@ set -e
 
 # ============ 配置 ============
 REPO="beck-8/subs-check"
-INSTALL_DIR="/opt/subs-check"
+INSTALL_DIR="/tmp/subs-check"
 BINARY_NAME="subs-check"
 SERVICE_NAME="subs-check"
 SERVICE_FILE="/etc/systemd/system/${SERVICE_NAME}.service"
