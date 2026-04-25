@@ -63,7 +63,7 @@ keep-success-proxies: false
 
 # 输出目录
 # 如果为空，则为程序所在目录的config目录
-output-dir: "/tmp"
+output-dir: "/tmp/subs-check/config"
 
 # 是否启用Web控制面板
 # 如果为false，则不启动Web控制界面，仅启动订阅服务相关接口
